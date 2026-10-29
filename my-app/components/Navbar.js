@@ -15,7 +15,7 @@ const Navbar = () => {
 
                 <li className='flex gap-3'>
                     <Link href="/shorten" className='font-bold bg-purple-500 rounded-lg shadow-lg py-1 p-3' ><button>Try Now</button></Link>
-                    <Link href="/github" className='font-bold bg-purple-500 rounded-lg shadow-lg py-1 p-3' ><button>Github</button></Link>
+                    <Link href="https://github.com/opahmad759-cloud/url-shortner" className='font-bold bg-purple-500 rounded-lg shadow-lg py-1 p-3' ><button>Github</button></Link>
                 </li>
             </ul>
 
